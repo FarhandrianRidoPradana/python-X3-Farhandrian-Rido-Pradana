@@ -1,7 +1,7 @@
 lower = 900
 upper = 1000
  
-print('bilangan prima antara',lower,'dan',upper,'adalah')
+print('bilangan ganjil antara',lower,'dan',upper,'adalah')
  
 for num in range(lower, upper+1):
     if num > 1:
